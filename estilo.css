@@ -1,0 +1,31 @@
+h1{
+    color: black; 
+ text-align: center;
+ font-size: 55px;
+ font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+ }
+
+ p{color: black; 
+    text-align: justify;
+    font-size: 25px;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: 'Times New Roman', Times, serif;}
+
+h2{
+    color: black; 
+text-align: center;
+font-size: 39px;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+    
+     }
+
+</table>
+<script language= "javascript">
+alert("este es mi examen")
+</script>
+</body>
+</html>
